@@ -1,0 +1,85 @@
+{
+    "movies": [
+      {
+        "title": "Inception",
+        "year": 2010,
+        "genre": ["Sci-Fi", "Action", "Thriller"],
+        "director": "Christopher Nolan",
+        "rating": 8.8,
+        "image": "https://image.tmdb.org/t/p/w500/qmDpIHrmpJINaRKAfWQfftjCdyi.jpg"
+      },
+      {
+        "title": "The Dark Knight",
+        "year": 2008,
+        "genre": ["Action", "Crime", "Drama"],
+        "director": "Christopher Nolan",
+        "rating": 9.0,
+        "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+      },
+      {
+        "title": "Interstellar",
+        "year": 2014,
+        "genre": ["Sci-Fi", "Adventure", "Drama"],
+        "director": "Christopher Nolan",
+        "rating": 8.7,
+        "image": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg"
+      },
+      {
+        "title": "Parasite",
+        "year": 2019,
+        "genre": ["Thriller", "Drama"],
+        "director": "Bong Joon-ho",
+        "rating": 8.6,
+        "image": "https://image.tmdb.org/t/p/w500/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg"
+      },
+      {
+        "title": "Joker",
+        "year": 2019,
+        "genre": ["Crime", "Drama", "Thriller"],
+        "director": "Todd Phillips",
+        "rating": 8.4,
+        "image": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+      },
+      {
+        "title": "The Matrix",
+        "year": 1999,
+        "genre": ["Action", "Sci-Fi"],
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "rating": 8.7,
+        "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+      },
+      {
+        "title": "Fight Club",
+        "year": 1999,
+        "genre": ["Drama"],
+        "director": "David Fincher",
+        "rating": 8.8,
+        "image": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg"
+      },
+      {
+        "title": "Forrest Gump",
+        "year": 1994,
+        "genre": ["Drama", "Romance"],
+        "director": "Robert Zemeckis",
+        "rating": 8.8,
+        "image": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+      },
+      {
+        "title": "The Godfather",
+        "year": 1972,
+        "genre": ["Crime", "Drama"],
+        "director": "Francis Ford Coppola",
+        "rating": 9.2,
+        "image": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg"
+      },
+      {
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "genre": ["Crime", "Drama"],
+        "director": "Quentin Tarantino",
+        "rating": 8.9,
+        "image": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg"
+      }
+    ]
+  }
+  
